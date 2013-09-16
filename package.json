@@ -1,0 +1,17 @@
+{
+    "name": "webdbsample",
+    "version": "0.0.1",
+    "description": "samle proram for testing node",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo ERROR: no test specified && exit "
+    },
+    "dependencies": {
+        "request": ">=1.0.0",
+        "express": "*",
+        "jade": "*"
+    },
+    "repository": " ",
+    "author": "hoge",
+    "license": "BSD"
+}
